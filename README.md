@@ -1,3 +1,4 @@
+# W.I.P
 # My Homelab Journey
 
 Welcome to my homelab documentation! This repository tracks my journey, organized into clear phases and milestones, as I build and evolve my homelab.
