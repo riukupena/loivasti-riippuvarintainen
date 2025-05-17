@@ -16,6 +16,10 @@ Welcome to my homelab documentation! This repository tracks my journey, organize
 
 This project documents my learning, successes, and failures as I experiment with hardware, networking, self-hosted services, and automation. I hope it helps others starting their own homelab adventure!
 
+## Starting point
+
+Here i will document my current setup, hardware and software, including services and automation. Mby extent to a folder with links, like "Phases" -section.
+
 ## Images
 
 Find diagrams and photos in the [images](images/) folder.
