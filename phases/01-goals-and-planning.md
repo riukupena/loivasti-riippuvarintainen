@@ -19,7 +19,7 @@
 
 ## Planning Steps
 
-- Assess current knowledge
+- Assess current situation and setup
 - Research homelab setups
 - Create a budget and timeline
 - Decide on documentation tools (Markdown, GitHub, diagrams)
